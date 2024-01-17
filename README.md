@@ -2,4 +2,4 @@
 
 **Previously**, I did my PhD with Moritz Gerstung and George S. Vassiliou at the EMBL-EBI and my MSc thesis with Irina Moreira at Universidade de Coimbra.
 
-**I am interested in** deep-learning, computer vision and computational oncobiology. I am also a big fan of data visualization (i.e. [Pure Ideology!](https://pure-ideology.netlify.app/), one of my favourite projects) and do some [musical production](https://josegcpa.ml/zga-tree) on my free time.
+**I am interested in** deep-learning, computer vision and computational oncobiology. I am also a big fan of data visualization (i.e. [Pure Ideology!](https://pure-ideology.netlify.app/), one of my favourite projects) and do some [musical production](https://josegcpa.net/zga-tree) on my free time.
