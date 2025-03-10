@@ -1,4 +1,4 @@
-**Hi! I’m José Guilherme de Almeida, a post-doctoral researcher** with the [Computational Clinical Imaging Group](https://fchampalimaud.org/research/groups/papanikolaou) at the Champalimaud Foundation. I am interested in developing robust predictive methods for (semi-)automated diagnosis and prognosis from clinical images and data.
+**Hey 👋 I’m José, a researcher** with the [Computational Clinical Imaging Group](https://fchampalimaud.org/research/groups/papanikolaou) at the Champalimaud Foundation. I am interested in developing robust predictive methods for (semi-)automated diagnosis and prognosis from clinical images and data.
 
 **Previously**, I did my PhD with Moritz Gerstung and George S. Vassiliou at the EMBL-EBI and my MSc thesis with Irina Moreira at Universidade de Coimbra.
 
